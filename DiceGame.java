@@ -12,6 +12,8 @@ public class DiceGame {
         System.out.println("The current side up for " + d20.getName() + " is " + d20.getSideUp());
         System.out.println("The current side up for Percentile  is " + d7.getSideUp());
 
+
+        //test roll method
         System.out.println("\nTesting the roll method");
 
 
